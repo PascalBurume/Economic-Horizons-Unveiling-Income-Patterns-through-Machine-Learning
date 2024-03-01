@@ -21,10 +21,6 @@ Our Power BI report highlights income demographic trends, revealing patterns rel
 - **Race and Income:** Examination of income distribution across racial groups.
 - **Education and Capital Gain/Loss:** Connection between education levels and financial outcomes.
 
-### Background: Socio-Economic Context and Significance
-
-- **Socio-Economic Context:** Emphasizing income levels as indicators of economic status affecting resource access, quality of life, and mobility.
-- **Significance of Income Prediction:** Using income predictions to understand economic conditions, labor dynamics, and socio-economic policy impacts.
 
 ### Machine Learning Interpretation and Application
 
