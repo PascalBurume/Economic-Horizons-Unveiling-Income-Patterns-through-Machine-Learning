@@ -26,7 +26,7 @@ Our Power BI report highlights income demographic trends, revealing patterns rel
 - **Socio-Economic Context:** Emphasizing income levels as indicators of economic status affecting resource access, quality of life, and mobility.
 - **Significance of Income Prediction:** Using income predictions to understand economic conditions, labor dynamics, and socio-economic policy impacts.
 
-### Outcome Interpretation and Application
+### Machine Learning Interpretation and Application
 
 - **Education as a Key Predictor:** Advocating for educational initiatives to enhance earning potential.
 - **Age Reflecting Experience:** Highlighting experience, as indicated by age, as a significant income predictor.
