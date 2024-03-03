@@ -3,6 +3,25 @@
 
 Our project delves into the nuanced relationship between individual demographic attributes and their financial behaviors, focusing on income levels, spending, saving, debt management, and retirement planning. We aim to provide a comprehensive understanding of financial behaviors by merging insights from document analysis and Machine learning with demographic data.
 
+## Architecture
+
+
+**Flow**:
+1. **First Step:** Initiate the process by executing a notebook via code specifically designed for cognitive purposes and acquiring data from an external source.
+
+2. **Second Step:** Submit a request to Azure Cognitive Search through an API, ensuring an index is created and the search information fabric is in place.
+
+3. **Third Step:** Import the gathered data into the lakehouse, facilitating information retrieval using Azure OpenAI integrated within Microsoft's ecosystem.
+
+4. **Fourth Step:** Proceed to upload the data into the lakehouse for comprehensive analysis. This involves utilizing the same lakehouse as before but for a distinct objective. The data, once fetched by Azure OpenAI, is uploaded for further examination with various tools or services, including Data Science, Statistical Notebook, or ML Notebook.
+
+5. **Fifth Step:** Implement summary code to derive statistical results.
+
+6. **Sixth Step:** Produce a report using Copilot, subsequent to the data cleansing process.
+
+7. **Seventh Step:** Develop an ML model dedicated to prediction purposes.
+
+
 ### Document Analysis: Integration of Retrieved Information
 
 We integrate insights from document analysis with demographic data to:
