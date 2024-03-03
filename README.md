@@ -4,7 +4,7 @@
 Our project delves into the nuanced relationship between individual demographic attributes and their financial behaviors, focusing on income levels, spending, saving, debt management, and retirement planning. We aim to provide a comprehensive understanding of financial behaviors by merging insights from document analysis and Machine learning with demographic data.
 
 ## Architecture
-
+![Power BI Report Summary](https://github.com/PascalBurume/Economic-Horizons-Unveiling-Income-Patterns-through-Machine-Learning/raw/main/ArchitectureHTG.png)
 
 **Flow**:
 1. **First Step:** Initiate the process by executing a notebook via code specifically designed for cognitive purposes and acquiring data from an external source.
