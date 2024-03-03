@@ -1,4 +1,4 @@
-# Summary of Income Demographics
+# Income Demographics report generate with copilot 
 ![Power BI Report Summary](https://github.com/PascalBurume/Economic-Horizons-Unveiling-Income-Patterns-through-Machine-Learning/raw/main/Power%20BI%20summary/Power%20BI%20report%20.png)
 
 
