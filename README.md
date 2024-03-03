@@ -1,7 +1,7 @@
 
 ## Income Demographic Analysis : A Comprehensive Approach to Understanding Financial Behaviors
 
-Our project delves into the nuanced relationship between individual demographic attributes and their financial behaviors, focusing on income levels, spending, saving, debt management, and retirement planning. We aim to provide a comprehensive understanding of financial behaviors by merging insights from document analysis with demographic data.
+Our project delves into the nuanced relationship between individual demographic attributes and their financial behaviors, focusing on income levels, spending, saving, debt management, and retirement planning. We aim to provide a comprehensive understanding of financial behaviors by merging insights from document analysis and Machine learning with demographic data.
 
 ### Document Analysis: Integration of Retrieved Information
 
