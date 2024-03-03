@@ -1,4 +1,7 @@
 # Summary of Income Demographics
+![Power BI Report Summary](https://github.com/PascalBurume/Economic-Horizons-Unveiling-Income-Patterns-through-Machine-Learning/raw/main/Power%20BI%20summary/Power%20BI%20report%20.png)
+
+
 
 The report summarizes the data presented on income demographics based on various factors such as age, gender, occupation, race, and education. The data reveals some interesting patterns and trends that can help understand the income distribution in the population.
 
